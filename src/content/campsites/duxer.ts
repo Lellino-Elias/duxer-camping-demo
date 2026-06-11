@@ -17,7 +17,6 @@ const duxer: CampsiteConfig = {
   brandKind: "Stellplatz im Skigebiet",
   regionLong: "Hochkrimml · Zillertal Arena · Österreich",
 
-  theme: "schiefer",
   heroVariant: "center",
 
   claim: "Dein Stellplatz auf 1.700 m, direkt am Lift",
@@ -169,7 +168,6 @@ const duxer: CampsiteConfig = {
   },
 
   kontakt: {
-    coords: { lat: 47.22191, lng: 12.17546 },
     tel: "+43 677 64452559",
     telHref: "tel:+4367764452559",
     mail: "office@duxer.at",
