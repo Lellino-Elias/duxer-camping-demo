@@ -168,6 +168,7 @@ const duxer: CampsiteConfig = {
   },
 
   kontakt: {
+    coords: { lat: 47.22191, lng: 12.17546, approx: true },
     tel: "+43 677 64452559",
     telHref: "tel:+4367764452559",
     mail: "office@duxer.at",
