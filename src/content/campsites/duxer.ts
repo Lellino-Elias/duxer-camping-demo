@@ -78,7 +78,7 @@ const duxer: CampsiteConfig = {
       {
         title: "Stellplatz Camping 1",
         text: "Gegenüber dem Duxer X-Press und dem Restaurant gelegen — die Anmeldung läuft vorab ganz einfach mit deinem Kennzeichen.",
-        image: { src: `${IMG}/gallery-9c1bf59371.webp`, alt: "Lageplan Stellplatz Camping 1 an der Duxeralm" },
+        image: { src: `${IMG}/duxeralm-terrasse-sonne.webp`, alt: "Sonnige Terrasse der Duxeralm mit Sitzplätzen direkt am Stellplatz Camping 1" },
       },
       {
         title: "Stellplatz Camping 2",
