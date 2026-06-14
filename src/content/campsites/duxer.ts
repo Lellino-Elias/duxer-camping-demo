@@ -142,7 +142,7 @@ const duxer: CampsiteConfig = {
       "Holz, gemütliche Stuben und einfache Zimmer — so urig schläft es sich in der alten Duxerhütte an der Talstation.",
     tag: "urig & einfach",
     images: [
-      { src: `${IMG}/gallery-883cb44cd3.webp`, alt: "Schlafzimmer unterm Dach in der alten Duxerhütte" },
+      { src: `${IMG}/gallery-0f93d35e28.webp`, alt: "Gastgeber an der Bar der alten Duxerhütte" },
       { src: `${IMG}/gallery-151ec1b7d9.webp`, alt: "Zimmer mit Stockbett in der alten Duxerhütte" },
       { src: `${IMG}/gallery-c2eaf7599b.webp`, alt: "Küche der alten Duxerhütte" },
       { src: `${IMG}/gallery-e72d00cfb3.webp`, alt: "Einfaches Zimmer in der alten Duxerhütte" },
