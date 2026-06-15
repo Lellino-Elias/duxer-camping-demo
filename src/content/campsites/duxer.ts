@@ -97,7 +97,7 @@ const duxer: CampsiteConfig = {
         name: "Alte Duxerhütte",
         kind: "Gruppenhütte",
         text: "An der Talstation des Duxer X-Press: Platz für bis zu 50 Personen, ideal für Feiern und Gruppenausflüge.",
-        image: { src: `${IMG}/gallery-3fce8b98a6.webp`, alt: "Urige Stube in der alten Duxerhütte" },
+        image: { src: `${IMG}/gallery-883cb44cd3.webp`, alt: "Urige Schlafkammer mit Holzdecke in der alten Duxerhütte" },
         features: ["13 Schlafzimmer", "55 Betten", "Heizung", "Eigene Küche"],
       },
       {
@@ -144,8 +144,8 @@ const duxer: CampsiteConfig = {
     images: [
       { src: `${IMG}/gallery-0f93d35e28.webp`, alt: "Gastgeber an der Bar der alten Duxerhütte" },
       { src: `${IMG}/gallery-151ec1b7d9.webp`, alt: "Zimmer mit Stockbett in der alten Duxerhütte" },
-      { src: `${IMG}/gallery-c2eaf7599b.webp`, alt: "Küche der alten Duxerhütte" },
-      { src: `${IMG}/gallery-e72d00cfb3.webp`, alt: "Einfaches Zimmer in der alten Duxerhütte" },
+      { src: `${IMG}/gallery-72979b21c8.webp`, alt: "Wohnmobile im Winter direkt am Stellplatz in den Bergen" },
+      { src: `${IMG}/gallery-b1a172d3d4.webp`, alt: "Sonnige Terrasse der Duxeralm im Winter mit Bergblick" },
     ],
   },
 
